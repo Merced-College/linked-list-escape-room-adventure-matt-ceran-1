@@ -1,0 +1,22 @@
+EscapeRoomStarter/
+│
+├── src/
+│   ├── Choice.java
+│   ├── Item.java
+│   ├── Scene.java
+│   ├── Node.java
+│   ├── SceneLinkedList.java
+│   ├── Player.java
+│   ├── GameLoader.java
+│   ├── AdventureGame.java
+│   └── Main.java
+│
+├── data/
+│   └── scenes.csv
+│
+└── images/
+    ├── lobby.jpg
+    ├── storage.jpg
+    ├── office.jpg
+    ├── hallway.jpg
+    └── exit.jpg
